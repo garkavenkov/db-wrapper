@@ -1,0 +1,19 @@
+{
+    "name": "garkavenkov/db-wrapper",
+    "description": "A wrapper for database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksim Garkavenkov",
+            "email": "maksim.garkavenkov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Garkavenkov\\DBWrapper\\": "src/"
+        }
+    }    
+}
